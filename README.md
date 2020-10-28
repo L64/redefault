@@ -19,26 +19,29 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 #### Compressed
 ###### In HTML
 ```
-<link rel="stylesheet" href="https://ghcdn.rawgit.org/L64/redefault/main/redefault.min.css">
+<link rel="stylesheet" href="https://lucas64.tk/redefault/redefault.min.css">
 ```
 ###### In CSS
 ```
-@import url('https://ghcdn.rawgit.org/L64/redefault/main/redefault.min.css');
+@import url('https://lucas64.tk/redefault/redefault.min.css');
 ```
 
 #### Un-compressed
 ###### In HTML
 ```
-<link rel="stylesheet" href="https://ghcdn.rawgit.org/L64/redefault/main/redefault.css">
+<link rel="stylesheet" href="https://lucas64.tk/redefault/redefault.css">
 ```
 ###### In CSS
 ```
-@import url('https://ghcdn.rawgit.org/L64/redefault/main/redefault.css');
+@import url('https://lucas64.tk/redefault/redefault.css');
 ```
 
 ## Screenshots (example)
-![Before](img/after.png "Before") -> ![After](img/after.png "After")
-Using [Spectre CSS](https://picturepan2.github.io/spectre)
+### Before
+![Before image](img/before.png)
+### After
+![After image](img/after.png)
+##### (Using [Spectre CSS](https://picturepan2.github.io/spectre))
 
 
 ##### Under BSL-1.0 - [Lucas](https://lucas64.tk)
