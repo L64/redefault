@@ -41,7 +41,7 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 ![Before image](img/before.png)
 ### After
 ![After image](img/after.png)
-##### (Using [Spectre CSS](https://picturepan2.github.io/spectre))
+#### (Using [Spectre CSS](https://picturepan2.github.io/spectre))
 
 
-##### Under BSL-1.0 - [Lucas](https://lucas64.tk)
+#### Under BSL-1.0 - [Lucas](https://lucas64.tk)
