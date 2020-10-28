@@ -44,4 +44,4 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 #### (Using [Spectre CSS](https://picturepan2.github.io/spectre))
 
 
-#### Under BSL-1.0 - [Lucas](https://lucas64.tk)
+[Lucas](https://lucas64.tk) (also known as Lucas64)
