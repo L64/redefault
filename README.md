@@ -45,3 +45,5 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 
 
 [Lucas](https://lucas64.tk) (also known as Lucas64)
+
+Under the Unlicense
