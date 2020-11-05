@@ -1,5 +1,5 @@
 /*
-ReDefault 1
+ReDefault 2
 https://github.com/L64/redefault
 by lucas64
 Under the Unlicense: https://unlicense.org
@@ -25,6 +25,9 @@ h4, h5 {
 	font-weight: bold;
 	font-size: medium;
 }
-p, li, br {
+br, button {
+  font-size: regular;
+}
+p, li {
 	font-size: medium;
 }
