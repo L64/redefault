@@ -19,21 +19,21 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 #### Compressed
 ###### In HTML
 ```
-<link rel="stylesheet" href="https://lucas64.tk/redefault/redefault.min.css">
+<link rel="stylesheet" href="https://l64.gitlab.io/redefault/redefault.min.css">
 ```
 ###### In CSS
 ```
-@import url('https://lucas64.tk/redefault/redefault.min.css');
+@import url('https://l64.gitlab.io/redefault/redefault.min.css');
 ```
 
 #### Un-compressed
 ###### In HTML
 ```
-<link rel="stylesheet" href="https://lucas64.tk/redefault/redefault.css">
+<link rel="stylesheet" href="https://l64.gitlab.io/redefault/redefault.css">
 ```
 ###### In CSS
 ```
-@import url('https://lucas64.tk/redefault/redefault.css');
+@import url('https://l64.gitlab.io/redefault/redefault.css');
 ```
 
 ## Screenshots (Using [Spectre CSS](https://picturepan2.github.io/spectre))
@@ -43,6 +43,6 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 ![After image](img/after.png)
 
 
-[Lucas](https://lucas64.tk) (also known as Lucas64)
+[Lucas](https://L64.repl.co) (also known as Lucas64)
 
 Under the Unlicense
