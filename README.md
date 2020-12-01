@@ -1,6 +1,14 @@
 # redefault
 Link this as the last before your stylesheet in a webpage with a CSS framework and get a "traditional" webpage letter design.
 
+## Features
+- Put letters into default: Get a "traditional" webpage letter design, it makes it when you import it
+- Icons (3 types): use the class "icon" and it's subclasses in img to create circular icons
+  - icon - normal
+  - icon I - big
+  - icon II - extra big
+  - icon III - extra-extra big
+
 ## Install
 
 ### Download
