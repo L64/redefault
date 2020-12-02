@@ -27,21 +27,21 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 #### Compressed
 ###### In HTML
 ```
-<link rel="stylesheet" href="https://l64.gitlab.io/redefault/redefault.min.css">
+<link rel="stylesheet" href="https://l64.github.io/redefault/redefault.min.css">
 ```
 ###### In CSS
 ```
-@import url('https://l64.gitlab.io/redefault/redefault.min.css');
+@import url('https://l64.github.io/redefault/redefault.min.css');
 ```
 
 #### Un-compressed
 ###### In HTML
 ```
-<link rel="stylesheet" href="https://l64.gitlab.io/redefault/redefault.css">
+<link rel="stylesheet" href="https://l64.github.io/redefault/redefault.css">
 ```
 ###### In CSS
 ```
-@import url('https://l64.gitlab.io/redefault/redefault.css');
+@import url('https://l64.github.io/redefault/redefault.css');
 ```
 
 ## Screenshots (Using [Spectre CSS](https://picturepan2.github.io/spectre))
