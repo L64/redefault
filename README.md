@@ -3,17 +3,17 @@ Link this as the last before your stylesheet in a webpage with a CSS framework a
 
 ## Features
 - Put letters into default: Get a "traditional" webpage letter design, it makes it when you import it
-- Icons (3 types): use the class "ri" and it's subclasses in img to create circular icons
+- Icons (3 types): use the class "```ri```" and it's subclasses in img to create circular icons
   - Sizes
-    - size-0 (normal) [default]
-    - size-1 / I (regular)
-    - size-2 / II (big)
-    - size-3 / III (extra big)
-    - size-4 / IV (extra-extra big)
+    - ```size-0``` (normal) [default]
+    - ```size-1``` / ```I``` (regular)
+    - ```size-2``` / ```II``` (big)
+    - ```size-3``` / ```III``` (extra big)
+    - ```size-4``` / ```IV``` (extra-extra big)
   - Forms
-    - square [default]
-    - semi-square
-    - circular
+    - ```square``` [default]
+    - ```semi-square```
+    - ```circular```
 
 ## Install
 
@@ -57,6 +57,4 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 ![After image](img/after.png)
 
 
-[Lucas](https://L64.repl.co) (also known as Lucas64)
-
-Under the Unlicense
+Made by [Lucas](https://l64.gitlab.io) - Under [the Unlicense](https://unlicense.org)
