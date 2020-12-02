@@ -1,7 +1,6 @@
 /*
-ReDefault 3
+ReDefault 3.1
 https://github.com/L64/redefault
-by lucas64
 Under the Unlicense: https://unlicense.org
 */
 body {
@@ -32,19 +31,19 @@ p, li {
 	font-size: medium;
 }
 .icon {
-	width: 15;
-	height: 15;
+	width: 15px;
+	height: 15px;
 	border-radius: 100%;
 }
 .icon .I {
-	width: 30;
-	height: 30;
+	width: 30px;
+	height: 30px;
 }
 .icon .II {
-	width: 60;
-	height: 60;
+	width: 60px;
+	height: 60px;
 }
 .icon .III {
-	width: 120;
-	height: 120;
+	width: 120px;
+	height: 120px;
 }
