@@ -15,6 +15,7 @@ Link this as the last before your stylesheet in a webpage with a CSS framework a
     - ```semi-square```
     - ```circular```
   - Example: ```<img class="ri size-1 semi-square" src="https://avatars0.githubusercontent.com/u/60271170" alt="Lcibr">``` makes
+  
   ![lcibr.png](img/lcibr.png)
 
 ## Install
