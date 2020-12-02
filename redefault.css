@@ -1,5 +1,5 @@
 /*
-ReDefault 3.1
+ReDefault 3.2
 https://github.com/L64/redefault
 Under the Unlicense: https://unlicense.org
 */
@@ -30,20 +30,61 @@ br, button {
 p, li {
 	font-size: medium;
 }
-.icon {
+
+
+/* Make-a-icons */
+.ri {
 	width: 15px;
 	height: 15px;
+}
+
+/* Figures? */
+.ri .circular {
 	border-radius: 100%;
 }
-.icon .I {
+.ri .semi-square {
+	border-radius: 50%;
+}
+.ri .square {
+	border-radius: 0%;
+}
+
+/* More sizes */
+.ri .size-0 {
+	width: 15px;
+	height: 15px;
+}
+.ri .size-1 {
+	width: 25px;
+	height: 25px;
+}
+.ri .size-2 {
 	width: 30px;
 	height: 30px;
 }
-.icon .II {
+.ri .size-3 {
 	width: 60px;
 	height: 60px;
 }
-.icon .III {
+.ri .size-4 {
+	width: 120px;
+	height: 120px;
+}
+
+/* The same in roman numbers */
+.ri .I {
+	width: 25px;
+	height: 25px;
+}
+.ri .II {
+	width: 30px;
+	height: 30px;
+}
+.ri .III {
+	width: 60px;
+	height: 60px;
+}
+.ri .IV {
 	width: 120px;
 	height: 120px;
 }
