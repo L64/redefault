@@ -1,5 +1,5 @@
 /*
-ReDefault 4
+ReDefault 4.1
 https://github.com/L64/redefault
 Under the Unlicense: https://unlicense.org
 */
@@ -29,6 +29,22 @@ br, button {
 }
 p, li {
 	font-size: medium;
+}
+a:link {
+	color: #0000eb;
+	text-decoration: underline;
+}
+a:visited {
+	color: #42007e;
+	text-decoration: underline;
+}
+a:hover {
+	color: #0000eb;
+	text-decoration: underline;
+}
+a:active {
+	color: #ff0000;
+	text-decoration: underline;
 }
 
 
