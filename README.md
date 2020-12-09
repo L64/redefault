@@ -60,4 +60,4 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 ![After image](img/after.png)
 
 
-Made by [Lucas](https://l64.gitlab.io) - Under [the Unlicense](https://unlicense.org)
+Made by [Lucas](https://l64.github.io) - Under [the Unlicense](https://unlicense.org)
