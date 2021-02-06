@@ -1,4 +1,4 @@
-# redefault
+# Redefault.css
 Link this as the last before your stylesheet in a webpage with a CSS framework and get a "traditional" webpage letter design.
 
 ## Features
@@ -60,4 +60,4 @@ Only you have to download "redefault.css" or "redefault.min.css" and link it lik
 ![After image](img/after.png)
 
 
-Made by [Lucas](https://lucas.codeberg.page) - Under [the Unlicense](https://unlicense.org)
+Made by [Absucc](https://lucas.codeberg.page) - Under [the Unlicense](https://unlicense.org)
