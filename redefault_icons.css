@@ -1,0 +1,54 @@
+/*
+ReDefault Icons 4.1
+https://github.com/absucc/redefault
+Under the Unlicense: https://unlicense.org
+*/
+.ri .circular {
+	border-radius: 100%;
+}
+.ri .semi-square {
+	border-radius: 5%;
+}
+.ri .square {
+	border-radius: 0%;
+}
+
+/* More sizes */
+.ri .size-0 {
+	width: 15px;
+	height: 15px;
+}
+.ri .size-1 {
+	width: 25px;
+	height: 25px;
+}
+.ri .size-2 {
+	width: 30px;
+	height: 30px;
+}
+.ri .size-3 {
+	width: 60px;
+	height: 60px;
+}
+.ri .size-4 {
+	width: 120px;
+	height: 120px;
+}
+
+/* The same in roman numbers */
+.ri .I {
+	width: 25px;
+	height: 25px;
+}
+.ri .II {
+	width: 30px;
+	height: 30px;
+}
+.ri .III {
+	width: 60px;
+	height: 60px;
+}
+.ri .IV {
+	width: 120px;
+	height: 120px;
+}
